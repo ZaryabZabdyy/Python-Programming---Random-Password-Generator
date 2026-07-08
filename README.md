@@ -36,11 +36,11 @@ Before running the project, ensure you have the following installed on your loca
 
 ## 🔮 Upcoming Updates & Roadmap
 
-**We are continuously working to elevate this project to production-grade security standards. 
-**The following features are scheduled for the next release:
+We are continuously working to elevate this project to production-grade security standards. 
+The following features are scheduled for the next release:
 
-**Cryptographically Secure Randomization: Moving from the standard random module to Python’s secrets module to ensure true cryptographic unpredictability.
+Cryptographically Secure Randomization: Moving from the standard random module to Python’s secrets module to ensure true cryptographic unpredictability.
 
-* ** Special Characters & Symbols: Integrating string.punctuation to support complex passwords containing symbols (e.g., @, #, $).
-* ** Diversity Guarantees: Implementing logic to guarantee that every password contains at least one uppercase letter, one lowercase letter, one digit, and one special character.
-* ** Database Logging & History: Integrating a secure backend database to safely log generation timestamps and audit data (without saving the actual passwords for security compliance).
+* Special Characters & Symbols: Integrating string.punctuation to support complex passwords containing symbols (e.g., @, #, $).
+* Diversity Guarantees: Implementing logic to guarantee that every password contains at least one uppercase letter, one lowercase letter, one digit, and one special character.
+* Database Logging & History: Integrating a secure backend database to safely log generation timestamps and audit data (without saving the actual passwords for security compliance).
