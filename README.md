@@ -1,4 +1,4 @@
-# 📊 Digital Khata – Smart Expense Tracker (Pro Edition)
+# 📊 Zabdy's Expense Tracker – Smart Financial Management (Pro Edition)
 
 A secure, minimalist Full-Stack Web Application designed to help multiple users seamlessly register, login, track, and categorize their daily financial expenses with direct relational data persistence.
 
